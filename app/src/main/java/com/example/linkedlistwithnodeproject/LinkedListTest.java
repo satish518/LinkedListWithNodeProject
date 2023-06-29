@@ -22,6 +22,7 @@ public class LinkedListTest {
             System.out.println("7. View List");
             System.out.println("8. Exit");
             System.out.println("Enter Your Choice");
+            System.out.println("Enjoy");
 
             int choice = sc.nextInt();
             int position, val;
